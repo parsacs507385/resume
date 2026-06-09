@@ -183,8 +183,7 @@
 | Layer | Technologies |
 |-------|--------------|
 | **Backend** | Python, Django, Django REST Framework |
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
-| **Database** | SQLite |
+| **Frontend** | HTML, CSS, JavaScript |
 | **AI/ML** | TensorFlow, Scikit-learn, Transformers |
 | **Real-time** | Django Channels / WebSockets (deprecated) |
 | **Payments** | Zarinpal / Local payment gateways |
