@@ -42,7 +42,8 @@ Commercial and production-ready applications built for clients.
 ## 📬 Contact
 
 - Email: parsahp85@gmail.com
-- GitHub: [parsacs507385](https://github.com/parsacs507385)
+- GitHub: [ParsaHamedparvaneh](https://github.com/parsahamedparvaneh)
+- LinkedIn: [ParsaHamedparvaneh](https://linkedin.com/in/parsahamedparvaneh)
 
 ---
 
