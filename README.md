@@ -18,13 +18,12 @@ Computer Engineering graduate | Machine Learning & Software Development
 ## 🎓 Harvard Certificates
 
 ### CS50AI - Artificial Intelligence
-- Certificate: `CS50AI.pdf`
-- Projects: degrees, tictactoe, minesweeper, knights, pagerank, heredity, shopping, crossword
+- 📜 **Certificate:** [`CS50AI.pdf`](./cs50ai%20Harvard/CS50AI.pdf) — *Click to view/download*
+- **Projects:** degrees, tictactoe, minesweeper, knights, pagerank, heredity, shopping, crossword
 
 ### CS50P - Python Programming
-- Certificate: `CS50P.pdf`
-- 40+ projects covering Python fundamentals, OOP, file I/O, regex, and testing
-
+- 📜 **Certificate:** [`CS50P.pdf`](./cs50p%20Harvard/CS50P.pdf) — *Click to view/download*
+- **Projects:** 40+ projects covering Python fundamentals, OOP, file I/O, regex, and testing
 ---
 
 ## 🤖 Machine Learning
